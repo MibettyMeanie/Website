@@ -1,27 +1,3 @@
-/* body{
-    background-color: #e0ebe8;
-} */
-/* hr{
-    border-style: none none dotted none;
-    background-color: #e0ebe8;
-    border-width: 6px;
-    border-color: rgb(218, 214, 214);
-    height:6px ;
-    width: 5%;
-
-}
-h1{
-    color: #45b29a;
-}
-h3{
-    color: #45b29a;
-}
-img{
-    object-fit: cover;
-    width: 200px;
-    height: 210px;
-    border-radius: 100%;
-} */
 * {
   margin: 0;
   padding: 0;
@@ -49,6 +25,7 @@ html {
   width: 100%;
   /* padding: 20px; */
   text-align: center;
+  padding: 0 100px 0 100px;
 }
 h1 {
   color: rgb(214, 207, 207);
@@ -56,6 +33,7 @@ h1 {
   font-size: 60px;
   line-height: 1.2;
   letter-spacing: 7.5px;
+  margin: 0 100px;
 }
 h2 {
   font-size: 50px;
@@ -120,7 +98,7 @@ h4{
   padding: 30px 70px;
   text-align: center;
   line-height: 2;
-  margin: 0 100px;
+  margin: 0 150px;
 }
 .Skills{
   width: 500px;
